@@ -1,16 +1,15 @@
-### Hi there 👋
+## Introduction
+안녕하세요
+오픈소스SW의 이해
+최근관심을 가지고 있는 분야는 [], [], []입니다.
 
-<!--
-**HwangKyeongSeok/HwangKyeongSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career
+- 영남대학교 컴퓨터공학과 재학
 
-Here are some ideas to get you started:
+## Links
+- E-mail - 22012162@yu.ac.kr
+- Phonenumber - 01033362428
+- asfsdfjjjd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## courses
+- Software Engineering, Software Design, Understanding of Open Source Software
