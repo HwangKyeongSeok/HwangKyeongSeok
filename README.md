@@ -2,7 +2,7 @@
 
 ## Introduction
 안녕하세요. 영남대학교 컴퓨터공학과를 재학중인 황경석입니다.
-최근관심을 가지고 있는 분야는 [O/S], [SW], [Algorithm]입니다.
+최근관심을 가지고 있는 분야는 [Android Development], [Backend Engineer]입니다.
 
 ## Career
 - 영남대학교 컴퓨터공학과 재학
