@@ -6,6 +6,7 @@
 
 ## Career
 - 영남대학교 컴퓨터공학과 재학
+- 정보처리기사 필기 합격
 
 ## Links
 - E-mail - 22012162@yu.ac.kr
@@ -13,3 +14,5 @@
 
 ## courses
 - Software Engineering, Software Design, Understanding of Open Source Software
+- Algorithm, OS, Database, Computer Architecture, Network
+- AI, Mobile Programming, Backend Programming(JS)
