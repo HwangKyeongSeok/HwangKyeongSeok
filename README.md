@@ -5,9 +5,12 @@
 최근관심을 가지고 있는 분야는 [Android Development], [Backend Engineer]입니다.
 
 ## Career
-- 영남대학교 컴퓨터공학과 재학
-- 정보처리기사 필기 합격
-
+- 영남대학교 컴퓨터공학과 졸업
+- 정보처리기사
+- SQLD
+- ADSP
+- TOEIC Speaking IH
+  
 ## Links
 - E-mail - 22012162@yu.ac.kr
 - Phonenumber - 01033362428
