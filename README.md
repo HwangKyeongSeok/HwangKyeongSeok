@@ -10,6 +10,7 @@
 - SQLD
 - ADSP
 - TOEIC Speaking IH
+- 빅데이터분석기사
   
 ## Links
 - E-mail - 22012162@yu.ac.kr
