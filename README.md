@@ -21,3 +21,4 @@
 - Algorithm, OS, Database, Computer Architecture, Network
 - AI, Mobile Programming, Backend Programming(JS)
 - Web Framework(Spring Boot), Web Programming(Html/Css/Js)
+- SSAFY(in progress)
